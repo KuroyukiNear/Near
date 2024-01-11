@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(30, 30, 30);
+}
+h1, h2, h3, h4, h5, h6, p, p1, p2, article{
+  color: rgb(255, 255, 255);
+}
+p1 {
+  font-size: 18px;
+}
+p2 {
+  font-size: 20px;
+}
+
+
+a:link {
+color: rgb(255, 255, 255);
+background-color: transparent;
+text-decoration: none;
+}
+
+a:visited {
+color: rgb(255, 255, 255);
+background-color: transparent;
+text-decoration: none;
+}
+
+a:hover {
+color: rgb(129, 126, 126);
+background-color: transparent;
+text-decoration: underline;
+}
+
+a:active {
+color: yellow;
+background-color: transparent;
+text-decoration: underline;
+}

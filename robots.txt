@@ -1,0 +1,5 @@
+# robots.txt
+# 11 JANUARY 2024
+
+User-agent: *
+Disallow: /assets/
