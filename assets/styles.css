@@ -1,7 +1,7 @@
 body {
   background-color: rgb(30, 30, 30);
 }
-h1, h2, h3, h4, h5, h6, p, p1, p2, article{
+h1, h2, h3, h4, h5, h6, p, p1, p2, article, div{
   color: rgb(255, 255, 255);
 }
 p1 {
