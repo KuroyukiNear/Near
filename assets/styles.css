@@ -45,3 +45,13 @@ text-decoration: underline;
   margin-right: auto;
   width: 50%;
 }
+
+/* Social Media Icons */
+.fa {
+  padding: 20px;
+  font-size: 150px;
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
