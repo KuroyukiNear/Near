@@ -39,13 +39,6 @@ background-color: transparent;
 text-decoration: underline;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 /* Social Media Icons */
 .fa {
   padding: 20px;
@@ -54,4 +47,18 @@ text-decoration: underline;
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center90 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
 }
